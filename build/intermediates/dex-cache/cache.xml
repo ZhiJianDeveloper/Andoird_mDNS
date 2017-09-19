@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\MdnsDemo\app\libs\micomdns_out.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="83cf5714aa38f0d76cbd049eeaf6a902f419b1a6">
+        <dex dex="D:\AndroidStudioProjects\MdnsDemo\app\build\intermediates\pre-dexed\debug\micomdns_out_2942fc0f3ebf422daabb07f5b56d16090fbfeb3f.jar" />
+    </item>
+
+</items>
